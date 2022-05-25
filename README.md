@@ -35,12 +35,9 @@ For testing the model, run <demo.py>
 
 For training the model, run <main.py>
 
-A dataset is needed:
+A dataset(All images in one file) is needed:
 - FALL-DETECTION
   - dataset/
-    - Fall/
-    - Squat/
-    - None/ 
   - train.txt(for dataset label)
   - main.py
 
